@@ -1,6 +1,6 @@
 ## Welcome to My Tech Space! 🚀 
 
-👋 Hi, I'm Dhruvi Desai, a passionate software engineer with over three years of experience, currently pursuing a Master of Science in Computer Science at California State University, Los Angeles.
+👋 Hi, I'm Dhruvi Desai, a passionate software engineer with over two years of experience, currently pursuing a Master of Science in Computer Science at California State University, Los Angeles.
 
 💻 I have expertise in full-stack development, specializing in JavaScript, TypeScript, React.js, Next.js, Node.js, Python, Django, Flask, and cloud services like AWS and Google Cloud. My work revolves around building scalable applications, automating data processing, and optimizing ETL pipelines.
 
