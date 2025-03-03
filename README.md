@@ -14,9 +14,10 @@
 ## 📫 Let’s Connect!
 🌱 I'm open to collaborating on open-source projects, innovative tech solutions, and research in AI/ML. Let’s build something amazing together!
 <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=linktree&logoColor=white)](https://dhruvi-desai.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🔗-%2312100E.svg?style=flat)](https://dhruvi-desai.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-desai-2b16021ab/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dhruvi_desai)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvidesai4402@gmail.com)
 <!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]() -->
 
 ## 💻 Tech Stack:
